@@ -18,7 +18,10 @@
   },
   "homepage": "https://github.com/kiptubei/webpack-template-app#readme",
   "devDependencies": {
+    "bootstrap": "^4.5.3",
     "css-loader": "^5.0.1",
+    "node-sass": "^5.0.0",
+    "sass-loader": "^10.0.5",
     "style-loader": "^2.0.0",
     "webpack": "^5.4.0",
     "webpack-cli": "^4.2.0"
